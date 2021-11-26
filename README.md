@@ -1,4 +1,4 @@
-# Aluminium-Strip-Surface-Defect-Classifier
+# Aluminum-Strip-Surface-Defect-Classifier
 Image analytics-based solution to classify salient surface defects in aluminium strip.
 
 ## Product overview
